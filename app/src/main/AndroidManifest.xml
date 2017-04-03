@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ct.app.freewithads" >
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"></uses-permission>
+    <!-- Network State Permissions -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <application
+        android:name="com.rssreadertop.utility.MyAppUtility"
+        android:allowBackup="true"
+        android:icon="@mipmap/logo_r1_c"
+        android:label="@string/app_name_title"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+
+        <activity
+            android:name="com.couriertracking.app.MainActivity"
+
+             >
+        </activity>
+
+        <activity
+            android:name="com.couriertracking.app.WebActivity"
+            android:label="@string/app_name_title"
+            >
+
+        </activity>
+
+        <activity
+            android:name="com.couriertracking.app.HistoryActivity"
+            android:label="@string/app_name_title"
+            >
+        </activity>
+        <activity
+            android:name="com.couriertracking.app.SplashActivity"
+            >
+           <!-- <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>-->
+        </activity>
+
+        <activity
+            android:name="com.rssreadertop.app.SplashActivity"
+            >
+
+        </activity>
+
+        <activity
+            android:name="com.rssreadertop.app.MainActivity"
+            >
+           <!-- <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>-->
+        </activity>
+
+        <activity
+            android:name="com.rssreadertop.rssreader.RSSMainActivity"
+            >
+
+           <intent-filter>
+               <action android:name="android.intent.action.MAIN" />
+               <category android:name="android.intent.category.LAUNCHER" />
+               <category android:name="android.intent.category.DEFAULT" />
+           </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name="com.couriertracking.app.SuggestToAdd"
+            android:label="@string/app_name_title"
+            >
+        </activity>
+
+        <receiver android:name="com.couriertracking.app.CourierAlarmReceiver"></receiver>
+
+        <receiver android:name="com.couriertracking.app.SampleBootReceiver"
+                  android:enabled="false">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"></action>
+            </intent-filter>
+        </receiver>
+
+        <service android:name="com.couriertracking.app.CourierService" />
+        
+        
+
+    </application>
+</manifest>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="app_bg">#FFFFFF</color>
+    <color name="submit_button_text">#FFFFFF</color>
+    <color name="app_prominent">#fe701e</color>
+    <color name="app_home_screen_text">#000000</color>
+    <color name="app_prominent_focus">#FFFFFF</color>
+    <color name="app_prominent_focus_border">#fe701e</color>
+    <item name="site_primarycolor" type="color">#FFA500</item>
+    <item name="site_white" type="color">#FFFFFF</item>
+    <item name="drawer_header" type="color">#FD6721</item>
+    <item name="pharma_drawer_header_sitebg" type="color">#222222</item>
+    <item name="drawer_section_header" type="color">#980000</item>
+    <item name="pharma_drawer_section_header" type="color">#454545</item>
+    <item name="grocery_drawer_header" type="color">#6ce629</item>
+    <item name="grocery_drawer_section_header" type="color">#FF24500B</item>
+    <item name="grocery_drawer_row_textcolor_unfocused" type="color">#e7ef9e</item>
+    <item name="grocery_drawer_row_textcolor_focused" type="color">#9eefd4</item>
+    <item name="grocery_drawer_section_header_textcolor" type="color">#FFFFFF</item>
+    <item name="drawer_section_header_textcolor" type="color">#FFFFFF</item>
+</resources>

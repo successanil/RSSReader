@@ -1,0 +1,61 @@
+Airstate Courier Tracking;;http://www.airstateindia.com/Tracking.aspx
+Airwings Courier Tracking;;http://www.airwingsindia.com/TrackingResult.asp
+Akash Ganga Courier Tracking;;http://akashganga.info/tracker.htm
+Aramex Courier Tracking;;http://www.aramex.com/express/track-results-multiple.aspx
+Blazeflash Courier Tracking;;http://www.blazeflash.com/TrackDetail.aspx
+Blue Dart Courier Tracking;;http://www.bluedart.com/servlet/RoutingServlet
+Bombino Courier Tracking;;http://www.bombinoexp.com/Tracking.aspx
+Bom-Gim Courier Tracking;;http://www.bomgim.com/track.asp
+Bonds Logistics Courier Tracking;;http://bondslogistics.com/
+CCI Courier Tracking;;http://webxpress.cci-logistics.com/track_trace.asp
+Corporate Courier Tracking;;http://corporatecourier.in/
+Delhivery Courier Tracking;;https://track.delhivery.com/accounts/login/?next=/
+DHL Courier Tracking;;http://www.dhl.co.in/en/express/tracking.html
+DTDC Courier Tracking;;http://dtdc.com/tracking/tracking.asp
+Ecom Courier Tracking;;http://billing.ecomexpress.in/track_me/multipleawb_open/
+Ecart Courier Tracking;;https://www.flipkart.com/trackorder
+Eagle Courier Tracking;;http://eagleworldexpress.com/
+Expressit Courier Tracking;;http://www.expressit.in/
+FedEx India Courier Tracking;;https://www.fedex.com/apps/fedextrack/
+First Flight Courier Tracking;;http://firstflight.net:8080/web-tracking/multipleTracking.do
+Flyking Courier Tracking;;http://www.flyking.co/Tracking.aspx
+GATI Courier Tracking;;http://www.gati.com/
+GMS Express Courier Tracking;;http://www.gmsworldwide.com/tracking.php
+GoJavas Courier Tracking;;http://gojavas.com/docket_details.php
+Indiaontime Courier Tracking;;http://www.ontime-express.com
+Madhur Courier Tracking;;http://www.madhurcouriers.in/
+Metro Maruti Courier Tracking;;http://mmexcouriers.com/TrackingCourier.aspx
+Mirakle Courier Tracking;;http://www.miraklecouriers.com/track/
+Om Courier Tracking;;http://www.omcourierservice.com/Tracking.aspx
+Ondot Courier Tracking;;http://ondot.co:8000/TrackResult.asp
+Overnite Express Courier Tracking;;http://overnitenet.com/WebEdgeTrackView.aspx
+Oxford Express Courier Tracking;;http://oxfordexp.com/Tracking.aspx
+PAFEX Courier Tracking;;http://pafex.in/track_result.php
+Palande Courier Tracking;;http://www.palandecourier.com/ConsignmentTracking.aspx
+Pegasus Courier Tracking;;http://www.pegasuscourierindia.com/tracking.php
+Pigeon Courier Tracking;;http://www.pigeonexpress.com/tracking.aspx
+Poonam Courier Tracking;;http://www.poonamcourier.com/tracking.aspx
+Professional Courier Tracking;;http://www.tpcindia.com/
+Pushpak Courier Tracking;;http://www.pushpakcourier.net/pc/index.php/tracking
+Quantium Courier Tracking;;http://www.quantiumaspac.com/qtracker/track.aspx
+Rapidconnect Tracking;;http://www.gorapidconnect.com/getrec.php
+Red Express Tracking;;https://www.getsetred.net/Tracking
+Registered Post Tracking;;http://www.indiapost.gov.in/articleTracking.aspx
+Safexpress Courier Tracking;;http://www.safexpress.com/faces/TrackShipment.jspx
+Shree Anjani Courier Tracking;;http://www.shreeanjanicourier.com/
+Shree Balaji Courier Tracking;;http://www.shreebalajicourier.com/sbcs/frmtracking.aspx
+Shree Maruti Courier Tracking;;http://shreemaruticourier.in/Network/frmTrackingDetails.aspx
+Shree Tirupati Courier Tracking;;http://www.shreetirupaticourier.net/stcs/frmhometrack.aspx
+SkyNet Courier Tracking;;https://www.skynetwwe.info/ShipmentTrackSingle.aspx
+Speed Post Tracking;;http://www.indiapost.gov.in/speednettracking.aspx
+Speed & Safe Courier Tracking;;http://www.speedandsafe.com/cn_tracking.php
+ST Courier Tracking;;http://www.stcourier.com/cgi_bin/show_status_list.php
+Target Courier Tracking;;http://www.target-xpress.com/Tracking.aspx
+TCI XPS Courier Tracking;;http://www.tcixps.com/trackingdocket.asp
+TNT Courier Tracking;;http://www.tnt.com/webtracker/tracker.do?navigation=1&respLang=en&respCountry=au
+Trackon Courier Tracking;;http://trackoncourier.com/
+UBX Courier Tracking;;http://www.ubxpress.com/in/tracking/Default.aspx
+United Courier Tracking;;http://www.unitedcouriers.biz/
+UPS Courier Tracking;;http://www.ups.com/WebTracking/track
+Vulcan Courier Tracking;;http://vulcanxpress.com/TrackOrder.aspx
+XpressBees Courier Tracking;;http://www.xpressbees.com/MainTrackShipment.aspx

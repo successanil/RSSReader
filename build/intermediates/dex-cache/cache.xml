@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/anilkukreti/Documents/ankur_proj/Pharmaguideline_FromGit/RSSReader/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8c046c952177602c858ed41c8fc492c939bde9aa">
+        <dex dex="/Users/anilkukreti/Documents/ankur_proj/Pharmaguideline_FromGit/RSSReader/app/build/intermediates/pre-dexed/free/debug/com.android.support-support-v13-23.0.1_7fae1d464b403e69fda9a1a445f0b57e5e969b45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anilkukreti/Documents/ankur_proj/Pharmaguideline_FromGit/RSSReader/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/anilkukreti/Documents/ankur_proj/Pharmaguideline_FromGit/RSSReader/app/build/intermediates/pre-dexed/free/debug/com.android.support-design-23.0.1_34c59db1cd83d2805b12beaf28448b3760e34d77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anilkukreti/Documents/ankur_proj/Pharmaguideline_FromGit/RSSReader/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/anilkukreti/Documents/ankur_proj/Pharmaguideline_FromGit/RSSReader/app/build/intermediates/pre-dexed/free/debug/com.android.support-support-v4-23.0.1_a5324e06861c56f88e0bde0fac32a0e83d1f8f1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anilkukreti/Documents/ankur_proj/Pharmaguideline_FromGit/RSSReader/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a0c456a59e1edab84702b48a626705aa1d830ccc">
+        <dex dex="/Users/anilkukreti/Documents/ankur_proj/Pharmaguideline_FromGit/RSSReader/app/build/intermediates/pre-dexed/free/debug/internal_impl-23.0.1_4141d1b87340f3c075dd331d99f558d8ec54f8ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anilkukreti/Documents/ankur_proj/Pharmaguideline_FromGit/RSSReader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/anilkukreti/Documents/ankur_proj/Pharmaguideline_FromGit/RSSReader/app/build/intermediates/pre-dexed/free/debug/com.google.android.gms-play-services-basement-8.4.0_e3ea73494538780d6fb81f80a29be1ed389d48c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anilkukreti/Documents/ankur_proj/Pharmaguideline_FromGit/RSSReader/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/Users/anilkukreti/Documents/ankur_proj/Pharmaguideline_FromGit/RSSReader/app/build/intermediates/pre-dexed/free/debug/com.android.support-cardview-v7-23.0.1_f8e54188f8e26c2622828b08956bb4db4ac9ebf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anilkukreti/Downloads/FreeWithAds/exportedf/CourierTracking/libs/mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/Users/anilkukreti/Documents/ankur_proj/Pharmaguideline_FromGit/RSSReader/app/build/intermediates/pre-dexed/free/debug/mail_3d4111bc74050e55950bbc8ef310fc209475f717.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anilkukreti/Documents/ankur_proj/Pharmaguideline_FromGit/RSSReader/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4b868b833b0887aa48c4e581558eef4f1196f6a2">
+        <dex dex="/Users/anilkukreti/Documents/ankur_proj/Pharmaguideline_FromGit/RSSReader/app/build/intermediates/pre-dexed/free/debug/de.hdodenhof-circleimageview-1.2.1_7bf6e9aab5071bfca34f95c52f370561d394d325.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anilkukreti/Downloads/FreeWithAds/exportedf/CourierTracking/libs/activation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/Users/anilkukreti/Documents/ankur_proj/Pharmaguideline_FromGit/RSSReader/app/build/intermediates/pre-dexed/free/debug/activation_fae7dc07f0d02974bb38b8f43002a9f6299244dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anilkukreti/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/anilkukreti/Documents/ankur_proj/Pharmaguideline_FromGit/RSSReader/app/build/intermediates/pre-dexed/free/debug/support-annotations-23.0.1_6a68634a298d5766e116cffad93e2ea955279eea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anilkukreti/Documents/ankur_proj/Pharmaguideline_FromGit/RSSReader/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/anilkukreti/Documents/ankur_proj/Pharmaguideline_FromGit/RSSReader/app/build/intermediates/pre-dexed/free/debug/com.android.support-recyclerview-v7-23.0.1_17adc0a447ef0a5569dfb3afcf1d6142f594c253.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anilkukreti/Documents/ankur_proj/Pharmaguideline_FromGit/RSSReader/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/anilkukreti/Documents/ankur_proj/Pharmaguideline_FromGit/RSSReader/app/build/intermediates/pre-dexed/free/debug/internal_impl-23.0.1_6478e75bf5147cd92ddb9ded77251ff47085f2be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anilkukreti/Documents/ankur_proj/Pharmaguideline_FromGit/RSSReader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/anilkukreti/Documents/ankur_proj/Pharmaguideline_FromGit/RSSReader/app/build/intermediates/pre-dexed/free/debug/com.google.android.gms-play-services-ads-8.4.0_7c76158a3418afea72f4d914e9341a855ef12258.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anilkukreti/Documents/ankur_proj/Pharmaguideline_FromGit/RSSReader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/anilkukreti/Documents/ankur_proj/Pharmaguideline_FromGit/RSSReader/app/build/intermediates/pre-dexed/free/debug/com.android.support-appcompat-v7-23.0.1_a05d11e484f30e546ecc08b5ffaec328c9cba2f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anilkukreti/Downloads/FreeWithAds/exportedf/CourierTracking/libs/additionnal.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/Users/anilkukreti/Documents/ankur_proj/Pharmaguideline_FromGit/RSSReader/app/build/intermediates/pre-dexed/free/debug/additionnal_b1f965903a8c8c24b7b8989bd175d0e82e6e7ccd.jar" />
+    </item>
+
+</items>
