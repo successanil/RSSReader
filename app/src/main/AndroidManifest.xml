@@ -17,14 +17,6 @@
         android:theme="@style/AppTheme">
 
 
-
-
-        <activity android:name="com.rssreadertop.app.SplashActivity">
-        </activity>
-        <activity android:name="com.rssreadertop.app.MainActivity">
-
-
-        </activity>
         <activity android:name=".rssreader.RSSMainActivity">
 
         </activity>
@@ -33,7 +25,7 @@
         <activity
             android:name=".rssreader.Dashboard"
             android:label="@string/title_activity_dashboard"
-            android:theme="@style/AppTheme">
+            android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
