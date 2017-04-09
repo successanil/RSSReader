@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 
-import com.ct.app.freewithads.R;
+import com.rssreadertop.R;
 
 
 public class SplashActivity extends AppCompatActivity {

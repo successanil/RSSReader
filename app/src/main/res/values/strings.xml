@@ -14,10 +14,14 @@
     <string name="enter_courier">Select courier service</string>
     <string name="trackno">Track no</string>
     <string name="courier_name">Courier Name</string>
-    <string name="courier_history_last_search">Last Searched On:   </string>
+    <string name="courier_history_last_search">Last Searched On:</string>
     <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
     <!--<string name="banner_ad_unit_id">ca-app-pub-3676840300761048/7163623449</string>-->
     <string name="test_interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
     <!-- subash id -->
     <!--<string name="banner_ad_unit_id">ca-app-pub-5426315045205785/9811387757</string>-->
 </resources>

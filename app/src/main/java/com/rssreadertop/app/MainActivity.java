@@ -14,9 +14,10 @@ import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.ListView;
 
-import com.ct.app.freewithads.R;
+
 import com.google.android.gms.ads.InterstitialAd;
 import com.google.android.gms.common.api.GoogleApiClient;
+import com.rssreadertop.R;
 import com.rssreadertop.pojo.DrawerHeaderItem;
 import com.rssreadertop.pojo.DrawerRowItem;
 import com.rssreadertop.pojo.RSSPageParam;

@@ -16,7 +16,8 @@ import android.webkit.WebViewClient;
 import android.widget.LinearLayout;
 import android.widget.ListView;
 
-import com.ct.app.freewithads.R;
+
+import com.rssreadertop.R;
 import com.rssreadertop.pojo.DrawerHeaderItem;
 import com.rssreadertop.pojo.DrawerRowItem;
 import com.rssreadertop.pojo.IRSSItem;

@@ -15,7 +15,7 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 
-import com.ct.app.freewithads.R;
+import com.rssreadertop.R;
 import com.rssreadertop.pojo.DrawerHeaderItem;
 import com.rssreadertop.pojo.DrawerRowItem;
 

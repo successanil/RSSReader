@@ -18,10 +18,10 @@ import android.view.ViewGroup;
 import android.widget.LinearLayout;
 import android.widget.ListView;
 
-import com.ct.app.freewithads.R;
 import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
+import com.rssreadertop.R;
 import com.rssreadertop.pojo.DrawerHeaderItem;
 import com.rssreadertop.pojo.DrawerRowItem;
 import com.rssreadertop.pojo.IRSSItem;

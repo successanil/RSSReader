@@ -15,7 +15,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.ct.app.freewithads.R;
+import com.rssreadertop.R;
 import com.rssreadertop.pojo.IRSSItem;
 import com.rssreadertop.pojo.RSSItem;
 

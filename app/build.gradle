@@ -6,7 +6,7 @@ android {
 
 
     defaultConfig {
-        applicationId "in.relsellglobal.rssreader"
+        applicationId "com.rssreadertop"
         minSdkVersion 18
         targetSdkVersion 23
         versionCode 3
@@ -14,10 +14,10 @@ android {
     }
     productFlavors {
         pro {
-            applicationId = "in.relsellglobal.rssreader.pro"
+            applicationId = "com.rssreadertop.pro"
         }
         free {
-            applicationId = "in.relsellglobal.rssreader.freewithads"
+            applicationId = "com.rssreadertop"
         }
     }
     buildTypes {
