@@ -14,7 +14,7 @@ import android.util.LruCache;
 import android.view.Display;
 import android.widget.Toast;
 
-import com.couriertracking.app.MainActivity;
+
 import com.rssreadertop.pojo.RSSPageParam;
 
 
@@ -40,7 +40,6 @@ public class MyAppUtility extends Application {
     private boolean isLocal = false;
 
 
-    private MainActivity mMainActivityCallback;
 
 
 
@@ -106,13 +105,8 @@ public class MyAppUtility extends Application {
     private static LruCache<String, Bitmap> mMemoryCache;
 
 
-    public MainActivity getmMainActivityCallback() {
-        return mMainActivityCallback;
-    }
 
-    public void setmMainActivityCallback(MainActivity mMainActivityCallback) {
-        this.mMainActivityCallback = mMainActivityCallback;
-    }
+
 
     /**
      * Convenient accessor, saves having to call and cast getApplicationContext()
